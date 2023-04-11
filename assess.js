@@ -28,7 +28,7 @@ function Search(target,num){
         }
         return null
      }
-    c0nsole.log(Search(target,num))
+    console.log(Search(target,num))
     
     
     
@@ -49,9 +49,9 @@ let nambari=[];
 //elements multiplied by 4.
 let numArray = [12,87,45,75,23,64,73];
 let multiply =numArray.map(function(item){
-    return item*5
+    return item*4
 })
-console.log(even);
+console.log(multiply);
 
 
 //Write a function that takes in an array of strings and returns an array with every element
